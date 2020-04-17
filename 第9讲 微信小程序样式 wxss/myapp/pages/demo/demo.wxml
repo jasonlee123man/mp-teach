@@ -1,0 +1,21 @@
+<!-- <view class="box"></view> -->
+
+
+<!-- <view class="button">查看更多</view> -->
+
+<!-- 演示样式导入 -->
+<!-- <view class="myFont">优就业</view> -->
+
+<!-- <view style="width:200rpx;height:200rpx;background:red;"></view> -->
+<!-- <view style="width:200rpx;height:200rpx;background:{{myColor}};"></view> -->
+
+<!-- 清除浮动 -->
+<!-- <view class="outer">
+	<view class="item">优就业</view>
+	<view class="item">优就业</view>
+	<view class="item">优就业</view>
+	<view class="item">优就业</view>
+</view> -->
+
+
+<view class="container">www.ujiuye.com</view>

@@ -1,0 +1,53 @@
+/* pages/demo/demo.wxss */
+/* .box{
+  width: 375px;
+  height: 100px;
+  background: red;
+} */
+/* 
+.box{
+  width: 750rpx;
+  height: 100rpx;
+  background: red;
+} */
+
+/*用ps量取button，调整样式*/
+/* page{
+  display: flex;
+  justify-content: center;
+}
+.button{
+  width: 690rpx;
+  height: 80rpx;
+  background: #F5F5F4;
+  text-align: center;
+  line-height: 80rpx;
+} */
+
+/* 引入外部的样式 */
+/* @import '/common/style.wxss'; */
+
+
+/*用::afeter清除浮动*/
+/* .outer{
+  border: 1rpx solid blue;
+}
+
+.item{
+  width: 200rpx;
+  height: 200rpx;
+  border: 1rpx solid #000;
+  background: red;
+  float: left;
+}
+
+.outer::after{
+  content: "";
+  display: block;
+  clear: both;
+} */
+
+/*局部样式优先级更高*/
+.container{
+  background: blue;
+}
